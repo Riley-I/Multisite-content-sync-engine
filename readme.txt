@@ -16,7 +16,7 @@ For organizations running *multiple sites under one brand* — e.g. dental chain
 
 ---
 
-## 🎯 Core Features (MVP → v1.0 Vision)
+## Core Features (MVP → v1.0 Vision)
 
 ### ✔ MVP (shipped)
 - Multisite-only plugin bootstrap
@@ -71,3 +71,4 @@ src/
 ├─ Sync/
 ├─ Database/
 └─ Views/…
+
